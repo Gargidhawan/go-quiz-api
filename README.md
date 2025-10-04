@@ -2,6 +2,9 @@
 
 A robust backend API for a quiz application built with Go, Gin, and GORM. This project features JWT authentication, role-based access control (Admin vs. Public), and a full suite of quiz management and participation endpoints.
 
+#### Demo Link
+https://drive.google.com/file/d/1N14VfH42IzAkeq_xpXNsEEw9_CjyFqYt/view?usp=sharing
+
 ## ✅ Features
 
 * **JWT Authentication**: Secure user registration and login using JSON Web Tokens.
